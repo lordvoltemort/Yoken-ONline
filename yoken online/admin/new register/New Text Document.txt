@@ -1,0 +1,1 @@
+INSERT INTO `admin` (`id`, `UserName`, `Password`, `updationDate`) VALUES (1, 'admin', '21232f297a57a5a743894a0e4a801fc3', '2017-07-05 11:02:08')
